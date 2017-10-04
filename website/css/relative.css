@@ -1,0 +1,22 @@
+section{
+    height: 80px;
+    position: relative; /* using relative */
+}
+.sec1{
+    top: 13px;
+}
+
+.sec2{
+    top: 30px;
+}
+
+aside{
+    position:relative; /* using relative */
+    top: -240px;
+    left: 560px;
+}
+
+footer{
+    position: relative; /* using relative */
+    bottom: 240px;
+}
