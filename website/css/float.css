@@ -1,0 +1,28 @@
+article {
+    /* using float */
+    float: left;
+}
+
+section{
+    margin-bottom: 10px;
+    margin-top: 15px;
+    height: 80px;
+    background-color: brown;
+}
+
+aside{
+    width: 240px;
+    background-color: cyan;
+    height: 240px;
+    /* using float  */
+    float: right;
+    margin-right: 63.6px;
+}
+
+footer{
+    position: absolute;
+    bottom: 476px;
+}
+
+
+

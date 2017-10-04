@@ -1,53 +1,6 @@
-header{
-    width:800px;
-    height: 50px;
-    text-align: center;
-    background-color: blue;
-    color: white;
-
-}
-
-nav {
-    width: 800px;
-    height: 40px;
-    background-color: green;
-}
-
-nav ul li{
-    display: inline;
-}
-
-a {
-    color: white;
-    margin-right: 5px;
-}
-
-article {
-    width: 530px;
-    height: 230px;
-    background-color: pink;
-    text-align: center;
-    color: white;
-}
-
 section{
     background-color: brown;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
     height: 80px;
-}
-
-aside{
-    width: 265px;
-    background-color: cyan;
-    height: 265px;
-    color: white;
-}
-
-footer {
-    width: 800px;
-    background-color: green;
-    color: white;
-    text-align: center;
-    height: 40px;
 }
